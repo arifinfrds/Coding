@@ -6,7 +6,7 @@
 //  Copyright © 2018 Arifin Firdaus. All rights reserved.
 //
 
-// agus.c@icloud.com
+
 
 import UIKit
 
